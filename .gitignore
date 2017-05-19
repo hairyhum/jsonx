@@ -4,3 +4,7 @@
 *.beam
 ebin/*.app
 *~
+.rebar
+compile_commands.json
+_build
+c_src/*.d
